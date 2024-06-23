@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://infini-88.arxman.com/sitemap.xml
